@@ -1,0 +1,3 @@
+# RsmLauncher
+
+Launcher for RedStarMulti.
